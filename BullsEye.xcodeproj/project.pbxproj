@@ -22,6 +22,7 @@
 		E80FF3B319B9403B00FB33FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E80FF3B119B9403B00FB33FA /* InfoPlist.strings */; };
 		E80FF3B519B9403B00FB33FA /* BullsEyeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E80FF3B419B9403B00FB33FA /* BullsEyeTests.m */; };
 		E8A6447719BE62710007DFE5 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E8A6447519BE5CF30007DFE5 /* AboutViewController.m */; };
+		E8A6447B19BEBB440007DFE5 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = E8A6447A19BEBB440007DFE5 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		E80FF3B419B9403B00FB33FA /* BullsEyeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BullsEyeTests.m; sourceTree = "<group>"; };
 		E8A6447419BE5CF30007DFE5 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
 		E8A6447519BE5CF30007DFE5 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		E8A6447A19BEBB440007DFE5 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		E80FF37D19B9403A00FB33FA = {
 			isa = PBXGroup;
 			children = (
+				E8A6447A19BEBB440007DFE5 /* BullsEye.html */,
 				E80FF38F19B9403A00FB33FA /* BullsEye */,
 				E80FF3AE19B9403A00FB33FA /* BullsEyeTests */,
 				E80FF38819B9403A00FB33FA /* Frameworks */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E80FF3A219B9403A00FB33FA /* Images.xcassets in Resources */,
+				E8A6447B19BEBB440007DFE5 /* BullsEye.html in Resources */,
 				E80FF39419B9403A00FB33FA /* InfoPlist.strings in Resources */,
 				E80FF39D19B9403A00FB33FA /* Main.storyboard in Resources */,
 			);
